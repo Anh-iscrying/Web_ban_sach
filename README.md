@@ -8,8 +8,7 @@ Website sẽ mang đến trải nghiệm mua sắm sách cá nhân hóa và ti�
 1. Giao diện và Trải nghiệm Người dùng
 2. Phân loại và Tổ chức Sách
 3. Tính năng Mua hàng và Thanh toán
-4. Nội dung và Tiếp thị
-5. Hỗ trợ Khách hàng
+
 ## Công nghệ sử dụng
 Giao diện: HTML, CSS, JavaScript  
 Cơ sở dữ liệu: MySQL
